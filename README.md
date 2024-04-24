@@ -2,7 +2,7 @@
 
 Heyy, I made this project using pure Java and JDBC (MySQL), just to enhance my knowledge in Java!
 
-Resere a room
+Reserve a room
 
 ![1](https://github.com/shahpranshu27/Hotel-Reservation/blob/main/Images_Hotel-Reservation/1.%20reserve.png)
 
